@@ -1,0 +1,7 @@
+BookKeeper:
+bookkeeper-server.src.main.java.org.apache.bookkeeper.bookie.BufferedChannel
+bookkeeper-server.src.main.java.org.apache.bookkeeper.client.BookKeeperAdmin
+
+Syncope:
+core.spring.src.main.java.org.apache.syncope.core.spring.security.AuthDataAccessor
+core.spring.src.main.java.org.apache.syncope.core.spring.security.Encryptor
